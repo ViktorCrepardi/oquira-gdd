@@ -6,7 +6,7 @@ description: Oquirá, o personagem do Jogador
 
 <figure><img src="../.gitbook/assets/MenuSemLogo.gif" alt=""><figcaption><p>Idle do personagem principal</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Oquirá.png" alt="" width="375"><figcaption><p>OQUIRÁ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Oquira.png" alt="" width="375"><figcaption><p>OQUIRÁ</p></figcaption></figure>
 
 ## O(a) Escolhido(a)
 

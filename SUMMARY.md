@@ -45,8 +45,7 @@
 ## 🪙 Economia do Jogo
 
 * [Sistema Monetário](economia-do-jogo/sistema-monetario.md)
-* [Coletáveis](economia-do-jogo/coletaveis.md)
-* [Compra e Venda](economia-do-jogo/compra-e-venda.md)
+* [Coletáveis, Equipamentos e Consumíveis](economia-do-jogo/coletaveis.md)
 
 ## 💻 Requerimentos Técnicos
 

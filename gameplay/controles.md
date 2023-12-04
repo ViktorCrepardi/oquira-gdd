@@ -8,11 +8,9 @@
 * Dar Investida - Dash;
 * Dar Contra Ataque - Parry;
 * Direcionar Contra ataque;
-* Se defender - Escudo;
-* Utilizar habilidade do elemento absorvido durante o Parry;
-* Trocar Elemento - Energia.
+* Utilizar habilidade do elemento absorvido.
 
 ## Mapeamento
 
-<figure><img src="../.gitbook/assets/Controles.png" alt=""><figcaption><p>Mapa de Controles</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Controles Branco.png" alt=""><figcaption><p>Mapa de Controles</p></figcaption></figure>
 

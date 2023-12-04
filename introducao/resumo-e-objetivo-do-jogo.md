@@ -16,8 +16,8 @@ _“Cabe ao escolhido, libertar a morte de seu controle e trazer o equilíbrio d
 
 ## Objetivo do Jogo
 
-Após o equilíbrio entre a vida e a morte ter sido quebrado, cabe ao escolhido (aquele capaz de manipular outros elementos sem ser o seu natural, de nascença), o jogador deverá trazer o equilíbrio novamente ao Mundo. Para isso será necessário explorar, passar pelos desafios que vão aparecer durante sua jornada, tendo que se adaptar e encontrar novas abordagens ao longo do caminho, até conseguir dominar os 4 elementos que faltam, assim tendo forças para poder libertar a Morte das garras do Artificial.
+Após o equilíbrio entre a vida e a morte ter sido quebrado, cabe ao escolhido (aquele capaz de manipular outros elementos sem ser o seu natural, de nascença), o jogador deverá trazer o equilíbrio novamente ao Mundo. Para isso será necessário explorar, passar pelos desafios que vão aparecer durante sua jornada, tendo que se adaptar e encontrar novas abordagens ao longo do caminho, até conseguir dominar os 4 elementos que faltam, assim tendo forças para poder libertar a Morte das garras do Artificial. \
+\
+O jogo incentiva a exploração, descoberta e a fomentar a comunidade que a experiência cria, compartilhando descobertas da história do mundo, estratégias e macetes de jogabilidade / mecânicas com outros jogadores da comunidade.&#x20;
 
-Incentivar a exploração, descoberta e a fomentar a comunidade que o jogo cria, compartilhando descobertas da história do mundo, estratégias e macetes de jogabilidade / mecânicas com outros jogadores da comunidade.
-
-Fazer o jogador ter a experiência de se perder no mundo do jogo, enquanto os obstáculos colocarão a prova as habilidades que o jogador desenvolveu, o fazendo superar seus limites. Instigar o jogador a descobrir mais sobre o jogo, para podermos ampliar o mundo e deixar essa experiência mais rica e divertida. Pois ajuda a manter a comunidade a se manter ativa.
+Fazer o jogador ter a experiência de se perder no mundo do jogo, enquanto encontra seu caminho, além de superar os obstáculos e desafios que colocarão a prova as habilidades que o jogador desenvolveu, o fazendo superar seus próprios limites e costumes. Instigar o jogador a descobrir mais sobre o jogo, para podermos ampliar o mundo e deixar essa experiência mais rica e divertida, pois ajuda a manter a comunidade ativa.

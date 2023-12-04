@@ -6,8 +6,6 @@ description: >-
 
 # Elementos e Regiões
 
-<figure><img src="../.gitbook/assets/LigacaoMapa.png" alt=""><figcaption></figcaption></figure>
-
 <details>
 
 <summary><strong>Elemento Planta - Região Verde - Parte da DEMO</strong></summary>
@@ -154,3 +152,4 @@ _Localização da Morte (Preto). Lugares na Cidade de Pedra, Protegido pelas má
 * Lugares que lembram o consumismo e o capitalismo sem moderação, algo de outra época, agora aproveitados pelas máquinas que permaneceram.
 
 </details>
+
